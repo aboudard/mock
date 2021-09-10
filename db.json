@@ -1,0 +1,10 @@
+{
+  "boats": [
+    {
+      "id": 0,
+      "propriete": "particulier",
+      "categorie": "voilier",
+      "longueur": 39
+    }
+  ]
+}
