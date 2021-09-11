@@ -6,6 +6,13 @@
       "propriete": "particulier",
       "categorie": "voilier",
       "longueur": 39
-    }
+    },
+    {
+      "id": 1,
+      "nom": "douar breiz",
+      "propriete": "professionel",
+      "categorie": "voilier",
+      "longueur": 28
+    },
   ]
 }
