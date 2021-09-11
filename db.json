@@ -2,6 +2,7 @@
   "boat": [
     {
       "id": 0,
+      "nom": "anna vreiz",
       "propriete": "particulier",
       "categorie": "voilier",
       "longueur": 39
