@@ -21,5 +21,12 @@
       "categorie": "voilier",
       "longueur": 40
     },
+    {
+      "id": 3,
+      "nom": "enez vaz",
+      "propriete": "particulier",
+      "categorie": "catamaran",
+      "longueur": 50
+    },
   ]
 }
