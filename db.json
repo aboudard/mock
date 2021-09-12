@@ -5,21 +5,24 @@
       "nom": "anna vreiz",
       "propriete": "particulier",
       "categorie": "voilier",
-      "longueur": 39
+      "longueur": 39,
+      "annexe": true
     },
     {
       "id": 1,
       "nom": "douar breiz",
       "propriete": "professionel",
       "categorie": "voilier",
-      "longueur": 28
+      "longueur": 28,
+      "annexe": false
     },
     {
       "id": 2,
       "nom": "leier eusa",
       "propriete": "particulier",
       "categorie": "voilier",
-      "longueur": 40
+      "longueur": 40,
+      "annexe": true
     },
     {
       "id": 3,
@@ -27,6 +30,14 @@
       "propriete": "particulier",
       "categorie": "catamaran",
       "longueur": 50
+    },
+    {
+      "id": 4,
+      "nom": "penn kalet",
+      "propriete": "professionel",
+      "categorie": "bateau moteur",
+      "longueur": 10
     }
+    
   ]
 }
